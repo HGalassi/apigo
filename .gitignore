@@ -1,0 +1,12 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test and build
+_output/
+bin/
+
+# Go workspace
+vendor/
